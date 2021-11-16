@@ -4,6 +4,10 @@ Bananas
 Pochi
 
 MEAT
+Cchicken
+mutton
+fish
+prones
 
 DAIRY
 
